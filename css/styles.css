@@ -344,7 +344,7 @@ h1{
   }
 
   h3{
-    font size: 36px;
+    font-size: 36px;
     line-height: 1;
   font-weight:bold;
   margin-bottom: 0.8em;
@@ -492,6 +492,7 @@ grid-column: 2 / span 2;
   color: #c78b07;
   margin: 20px;
   padding: 20px;
+}
 }
 
 
